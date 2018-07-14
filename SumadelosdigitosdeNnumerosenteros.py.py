@@ -1,3 +1,4 @@
+//primer programa
 def sumad(num):
     s=0 #suma de los digitos
     while num>0:
